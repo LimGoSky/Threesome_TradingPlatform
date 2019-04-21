@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using WpfApp1.Common;
 
 namespace WpfApp1
 {
@@ -22,6 +23,7 @@ namespace WpfApp1
     {
         public MainWindow()
         {
+            Log4Helper.Info(this.GetType(),"第一个日志记录");
             InitializeComponent();
         }
     }
