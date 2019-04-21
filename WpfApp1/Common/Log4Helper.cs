@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Threesome_TradingPlatform.Common
+namespace TradingPlatform.Common
 {
     public static class Log4Helper
     {

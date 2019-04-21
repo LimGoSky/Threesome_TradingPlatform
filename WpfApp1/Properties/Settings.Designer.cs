@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Threesome_TradingPlatform.Properties
+namespace TradingPlatform.Properties
 {
 
 
