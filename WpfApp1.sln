@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{E3F6990F-90D2-42EC-BF26-3AFF26E919B7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Threesome_TradingPlatform", "WpfApp1\Threesome_TradingPlatform.csproj", "{E3F6990F-90D2-42EC-BF26-3AFF26E919B7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

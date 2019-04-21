@@ -12,9 +12,9 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-using WpfApp1.Common;
+using Threesome_TradingPlatform.Common;
 
-namespace WpfApp1
+namespace Threesome_TradingPlatform
 {
     /// <summary>
     /// MainWindow.xaml 的交互逻辑
